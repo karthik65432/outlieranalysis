@@ -1,0 +1,10 @@
+Package: outlieranalysis
+Type: Package
+Title: outlier analysis
+Version: 0.1.0
+Author: Ketan and Karthik
+Maintainer: Ketan Dubbwar <anurodhs123@gmail.com>
+Description: Package is useful for outlier detection and missing value analysis
+License: GPL-3
+Encoding: UTF-8
+LazyData: FLASE
